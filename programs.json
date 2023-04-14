@@ -1,0 +1,70 @@
+{
+    "Monday": {
+      "ARMS": {
+        "Biceps": [  "BICEPS ",
+          "Curls :12 reps x 4 sets",
+          "Hammers :12 reps x 4 sets",
+          "One arm dumbbell preacher curl :12-10 reps x 4 sets"
+        ],
+        "Triceps": [ "TRICEPS",
+          "Over head triceps extension: 12-10 x 4 sets",
+          "Dumbbell kickback: 12 x 4 sets",
+          "Push-up: 8-10 x 4 sets"
+        ],
+        "ABS/CARDIO": [ "ABS/CARDIO",
+          "UPPER-ABS-DAY: 3 exercises x 15-20 sets",
+          "CARDIO:20-40 mins"
+        ]
+      }
+    },
+    "Tuesday": {
+      "CHEST": [
+        "Bench press: 15-6 x 6 sets",
+        "Incline bench press: 12-8 x 4 sets",
+        "Machine fly: 12-8 x 4 sets",
+        "Wide push-ups: 12-10 x 4 sets"
+      ],
+      "ABS/CARDIO": [
+        "Abs: 3 exercises x 15-20 sets",
+        "Cardio:20-40 mins"
+      ]
+    },
+    "Wednesday": {
+      "BACK": [
+        "One-arm dumbbell row: 12 x 4 sets",
+        "Reverse-fly: 12 x 4 sets",
+        "Dumbbell pullover: 12 x 4 sets",
+        "Alternating renegade row: 12-10 x 4 sets"
+      ],
+      "ABS/CARDIO": [
+        "LOWER-ABS-DAY: 3 exercises x 15-20 sets",
+        "Cardio:20-40 mins"
+      ]
+    },
+    "Thursday": {
+      "SHOULDERS": [
+        "Seated dumbbell press:12 x 4 sets",
+        "Front raise: 15-10 x 4 sets",
+        "Side lateral raise: 12 x 4 sets",
+        "Push-up or Dumbbell rear delt row: 12-10 x 4 sets"
+      ],
+      "ABS": [
+        "V-CUTS-ABS: 3 exercises x 15-20 sets"
+      ]
+    },
+    "Friday": {
+      "LEG-DAY": [
+        "Squats:6 sets *Start with small weight x 12 reps drop to 6-8 reps till *End",
+        "Leg-extension:12 reps x 4 sets",
+        "Inductors-Abductors:(12 reps 4 sets )2 EXTRA SETS",
+        "Hip-Thrust:12-8 reps x 4 sets",
+        "Dumbbell calfs raises:14-10 reps x 5 sets",
+        "Romanian deadlift:10-8 reps x 4 sets"
+      ],
+      "CARDIO": [
+        "Walking/Stepper:30-50 mins"
+      ]
+    },
+    "Saturday": "EXTRA",
+    "Sunday": "EXTRA"
+  }
